@@ -1,0 +1,1 @@
+input_file='/Users/jermayaleijen/Downloads/kw_search/input_for_script.xlsx'
